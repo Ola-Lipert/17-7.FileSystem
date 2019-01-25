@@ -1,1 +1,1 @@
-.git,cat.jpg,index.js,node_modules,package-lock.json,package.json,README.md,tekst.txt
+.git,cat.jpg,index.js,listFiles.txt,node_modules,package-lock.json,package.json,README.md,tekst.txt
